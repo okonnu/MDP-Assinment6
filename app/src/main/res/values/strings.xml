@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CVBuilderApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="work">Work</string>
+    <string name="contact">Contact</string>
+
+    <string name="cv">CVBuilderApp</string>
+
+    <string name="add">Add</string>
+
+    <string name="whatsapp">WhatsApp</string>
+    <string name="gmail">Gmail</string>
+    <string name="telegram">Telegram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="cover_photo">Cover Photo</string>
+
+    <string name="name">Douglas Okonu</string>
+    <string name="position">Java Engineer</string>
+
+    <string name="career_note">Career Note</string>
+    <string name="career_note_desc"><b>Completed</b>
+        on-campus studies and currently taking distance education courses to complete a Master\'s Degree in Computer Science (Available for full-time <b>W2</b> employment).</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_desc"><b>Languages:
+    </b>Java, JavaScript, PL/SQL \n<b>Frameworks/web:
+    </b>Spring(Boot, MVC, Security), Hibernate, JDBC \n<b>Microservices/Cloud: </b>AWS, GCP, Docker, Kubernetes, Kafka \n<b>Databases: </b>Oracle, PL/SQL, MySQL, MongoDB \n<b>Tools: </b>Intellij IDE, Maven, GitHub, GitLab, UML \n</string>
+
+    <string name="about_me_desc">Motivated software developer with more than 5+ years of experience of hands-on, professional
+    experience in the fullstack design and development of software solutions, using all phases of the software Development Life Cycle. Skill cover a variety of languages and technologies such as
+    Java, Vue-js, SpringBoot, Oracle Pl/SQL. Have Ms and BS in Software Engineering</string>
+
+    <string name="education">Education</string>
+    <string name="school">My College</string>
+    <string name="certification">Certification</string>
+
+    <string name="my_contacts">Contact Me</string>
+
+    <string name="information_to_share">
+        Name: Douglas Okonu
+        LinkedIn Profile: https://www.linkedin.com/in/douglas_okonu/
+    </string>
+
+    <string name="email">dokonu@miu.edu</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/douglas_okonu/</string>
+    <string name="github_profile">https://github.com/okonnu</string>
+
+    <string name="login">Please login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+
+</resources>
